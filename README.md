@@ -1,4 +1,4 @@
-<a href="https://porta-premiada-felipeleopoldino.netlify.app/">Quiz</a>
+<a href="https://quiz-virid-one.vercel.app/">Quiz</a>
 
 ## 💻 Quiz
 
