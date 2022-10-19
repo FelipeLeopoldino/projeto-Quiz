@@ -1,4 +1,4 @@
-<a href="https://porta-premiada-felipeleopoldino.netlify.app/">Quii</a>
+<a href="https://porta-premiada-felipeleopoldino.netlify.app/">Quiz</a>
 
 ## 💻 Quiz
 
