@@ -1,34 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<a href="https://porta-premiada-felipeleopoldino.netlify.app/">Quii</a>
 
-## Getting Started
+## 💻 Quiz
 
-First, run the development server:
+<h3>Jogo de perguntas e respostas</h3>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<h4>Quiz
+  O Jogo de perguntas e respostas, contem 16 perguntas cada com 4 respostas.
+  Com resultado no final do jogo, com estatisticas de perguntas certas.
+</h4>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h6>Aplicatico responsivo para todos os tamahos de telas </h6>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Tecnologias do Projeto
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+-ReactJs
 
-## Learn More
+-Next.Js
 
-To learn more about Next.js, take a look at the following resources:
+-TypeScript
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-React Hooks
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+-CSS
 
-## Deploy on Vercel
+-Consumo de API interna
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Status
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [x] Completo

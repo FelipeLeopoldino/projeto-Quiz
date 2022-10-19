@@ -1,0 +1,17 @@
+.resultado {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 2rem;
+  flex-wrap: wrap;
+}
+
+@media (max-width:768px ){
+  .resultado{
+    font-size: 1.2rem;
+    
+  }
+
+}

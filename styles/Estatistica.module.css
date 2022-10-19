@@ -1,0 +1,43 @@
+.estatistica {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0.62rem;
+  flex-wrap: wrap;
+}
+
+.valor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 11.25rem;
+  width: 11.25rem;
+  border-radius: 5.62rem;
+  font-size: 4rem;
+  flex-wrap: wrap;
+
+}
+
+.texto {
+  color: #ddd;
+  font-size: 1.7rem;
+  font-weight: 200;
+  flex-wrap: wrap;
+}
+
+@media (max-width:768px ){
+  .estatistica {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .valor{
+    display: flex;
+    flex-direction: column;
+    font-size: 3rem;
+    height: 9rem;
+    width: 9rem;
+  }
+  
+}

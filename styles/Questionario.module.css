@@ -1,0 +1,14 @@
+.questionario{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+@media (max-width: 768px){
+  .questionario {
+      display: flex;
+      height: 90vh;
+  }
+}
