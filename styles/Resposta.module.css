@@ -89,4 +89,8 @@
   .valor {
     font-size: 1rem;
   }
+  .certa .valor,
+  .errada .valor {
+    font-size: 1rem;
+  }
 }
